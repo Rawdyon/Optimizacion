@@ -25,11 +25,11 @@ To use the interface, follow these steps:
 
 ![image](https://github.com/Rawdyon/Optimizacion/assets/128869797/45b2307c-baba-4f18-874b-46b8c895b31e)
 
-First the interface will request the number of your problem variables and restrictions, and the type of optimization problem (could be for maximization or minimization) as input:
+First the interface will request the number of your problem variables and constraints, and the type of optimization problem (could be for maximization or minimization) as input:
 
 ![image](https://github.com/Rawdyon/Optimizacion/assets/128869797/7b5771c4-a61c-417d-9b66-a43e96465d1f)
 
-then will let you set the coeficients and restrictions of your variables, this is an example for a Maximization problem with 3 variables 4 restrictions.
+then will let you set the coeficients and constraints of your variables, this is an example for a Maximization problem with 3 variables 4 restrictions.
 
 ![image](https://github.com/Rawdyon/Optimizacion/assets/128869797/c6ed9335-b224-43cf-b64a-d65bfaa922a4)
 
