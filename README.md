@@ -45,6 +45,3 @@ then will let you set the coeficients and restrictions of your variables, this i
 Contributions to improve the interface are welcome! If you encounter any bugs, have suggestions for improvements, or want to add new features, please let me know:
 
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
